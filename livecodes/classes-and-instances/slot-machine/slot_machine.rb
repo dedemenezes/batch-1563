@@ -33,8 +33,3 @@ class SlotMachine
     end
   end
 end
-
-['joker', 'joker', 'star'].uniq
-['joker', 'star']
-['star', 'joker', 'joker'].uniq
-['star', 'joker']
